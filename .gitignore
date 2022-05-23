@@ -93,3 +93,5 @@ clean-noaa/part-00042-4fe0d8a1-fe07-40d4-baad-4d4467dee187-c000.snappy.parquet
 clean-noaa/part-00043-4fe0d8a1-fe07-40d4-baad-4d4467dee187-c000.snappy.parquet
 noaa.csv
 noaa.csv
+noaa.csv
+*.csv
