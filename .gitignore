@@ -3,3 +3,4 @@
 *.crc
 *.parquet
 noaa.csv
+*.csv
